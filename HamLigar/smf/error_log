@@ -1,0 +1,55 @@
+[21-Nov-2024 09:02:42 Asia/Jakarta] PHP Warning:  Constant PASSWORD_DEFAULT already defined in /home/hamg9221/public_html/smf/update_pass.php on line 17
+[21-Nov-2024 09:02:42 Asia/Jakarta] PHP Warning:  Undefined variable $resp1 in /home/hamg9221/public_html/smf/update_pass.php on line 20
+[20-Nov-2024 20:08:31 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function template_ic_block_online() in /home/hamg9221/public_html/smf/Themes/potato_0.1.1/BoardIndex.template.php:349
+Stack trace:
+#0 /home/hamg9221/public_html/smf/Themes/potato_0.1.1/BoardIndex.template.php(327): template_info_center()
+#1 /home/hamg9221/public_html/smf/Themes/potato_0.1.1/index.template.php(356): template_body_wrapper_end()
+#2 /home/hamg9221/public_html/smf/Sources/Load.php(2778): template_body_below()
+#3 /home/hamg9221/public_html/smf/Sources/Subs.php(4683): loadSubTemplate()
+#4 /home/hamg9221/public_html/smf/Sources/Subs.php(4172): template_footer()
+#5 /home/hamg9221/public_html/smf/index.php(187): obExit()
+#6 {main}
+  thrown in /home/hamg9221/public_html/smf/Themes/potato_0.1.1/BoardIndex.template.php on line 349
+[20-Nov-2024 21:36:33 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/smf/Sources/Subs-Post.php:741
+Stack trace:
+#0 /home/hamg9221/public_html/smf/Sources/Subs-Members.php(797): sendmail()
+#1 /home/hamg9221/public_html/smf/Sources/Register.php(531): registerMember()
+#2 /home/hamg9221/public_html/smf/index.php(184): Register2()
+#3 {main}
+  thrown in /home/hamg9221/public_html/smf/Sources/Subs-Post.php on line 741
+[21-Nov-2024 15:17:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/smf/Sources/Subs-Post.php:741
+Stack trace:
+#0 /home/hamg9221/public_html/smf/Sources/Subs-Members.php(797): sendmail()
+#1 /home/hamg9221/public_html/smf/Sources/Register.php(531): registerMember()
+#2 /home/hamg9221/public_html/smf/index.php(184): Register2()
+#3 {main}
+  thrown in /home/hamg9221/public_html/smf/Sources/Subs-Post.php on line 741
+[22-Nov-2024 13:18:02 Asia/Jakarta] PHP Warning:  Constant PASSWORD_DEFAULT already defined in /home/hamg9221/public_html/smf/update_pass.php on line 17
+[22-Nov-2024 13:18:02 Asia/Jakarta] PHP Warning:  Undefined variable $resp1 in /home/hamg9221/public_html/smf/update_pass.php on line 20
+[22-Nov-2024 22:07:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/smf/Sources/Subs-Post.php:741
+Stack trace:
+#0 /home/hamg9221/public_html/smf/Sources/ManageMail.php(481): sendmail()
+#1 /home/hamg9221/public_html/smf/Sources/Subs.php(6030): TestMailSend()
+#2 /home/hamg9221/public_html/smf/Sources/ManageMail.php(62): call_helper()
+#3 /home/hamg9221/public_html/smf/Sources/Admin.php(499): ManageMail()
+#4 /home/hamg9221/public_html/smf/index.php(184): AdminMain()
+#5 {main}
+  thrown in /home/hamg9221/public_html/smf/Sources/Subs-Post.php on line 741
+[22-Nov-2024 22:07:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/smf/Sources/Subs-Post.php:741
+Stack trace:
+#0 /home/hamg9221/public_html/smf/Sources/ManageMail.php(481): sendmail()
+#1 /home/hamg9221/public_html/smf/Sources/Subs.php(6030): TestMailSend()
+#2 /home/hamg9221/public_html/smf/Sources/ManageMail.php(62): call_helper()
+#3 /home/hamg9221/public_html/smf/Sources/Admin.php(499): ManageMail()
+#4 /home/hamg9221/public_html/smf/index.php(184): AdminMain()
+#5 {main}
+  thrown in /home/hamg9221/public_html/smf/Sources/Subs-Post.php on line 741
+[22-Nov-2024 23:55:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/smf/Sources/ScheduledTasks.php:787
+Stack trace:
+#0 /home/hamg9221/public_html/smf/Sources/ManageMail.php(413): ReduceMailQueue()
+#1 /home/hamg9221/public_html/smf/Sources/Subs.php(6030): ClearMailQueue()
+#2 /home/hamg9221/public_html/smf/Sources/ManageMail.php(62): call_helper()
+#3 /home/hamg9221/public_html/smf/Sources/Admin.php(499): ManageMail()
+#4 /home/hamg9221/public_html/smf/index.php(184): AdminMain()
+#5 {main}
+  thrown in /home/hamg9221/public_html/smf/Sources/ScheduledTasks.php on line 787

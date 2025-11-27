@@ -1,0 +1,715 @@
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[31-May-2025 05:49:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[02-Jun-2025 00:18:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[05-Jun-2025 11:35:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[18-Jun-2025 00:59:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[28-Jun-2025 03:52:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[03-Jul-2025 03:22:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[05-Jul-2025 07:35:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[07-Jul-2025 18:14:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[08-Jul-2025 07:08:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[08-Jul-2025 13:57:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[10-Jul-2025 09:49:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[10-Jul-2025 12:30:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[10-Jul-2025 14:17:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[10-Jul-2025 15:17:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[10-Jul-2025 18:24:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[11-Jul-2025 23:00:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[12-Jul-2025 02:33:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[14-Jul-2025 17:47:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[19-Jul-2025 19:14:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[19-Jul-2025 19:14:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[20-Jul-2025 11:57:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[20-Jul-2025 11:57:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[20-Jul-2025 21:57:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 34
+[20-Jul-2025 21:57:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[21-Jul-2025 16:34:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[23-Jul-2025 04:51:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 34
+[23-Jul-2025 04:52:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[23-Jul-2025 21:20:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[25-Jul-2025 07:02:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[25-Jul-2025 07:35:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[25-Jul-2025 13:59:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[26-Jul-2025 20:22:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[27-Jul-2025 01:47:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[27-Jul-2025 14:10:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[28-Jul-2025 07:41:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 34
+[28-Jul-2025 07:42:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[28-Jul-2025 09:39:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[29-Jul-2025 04:50:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[31-Jul-2025 07:43:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[01-Aug-2025 02:11:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[01-Aug-2025 16:45:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[08-Aug-2025 03:42:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[08-Aug-2025 12:27:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[09-Aug-2025 08:48:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[16-Aug-2025 19:35:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[18-Aug-2025 12:21:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[19-Aug-2025 02:34:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[20-Aug-2025 20:50:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[26-Aug-2025 11:24:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[30-Aug-2025 22:20:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[31-Aug-2025 18:06:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[02-Sep-2025 09:17:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[02-Sep-2025 17:24:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[03-Sep-2025 22:10:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[04-Sep-2025 13:54:50 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[04-Sep-2025 13:54:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[04-Sep-2025 13:54:50 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[04-Sep-2025 13:54:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[04-Sep-2025 13:54:50 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[04-Sep-2025 13:54:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[04-Sep-2025 13:54:51 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[04-Sep-2025 13:54:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[05-Sep-2025 15:16:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[06-Sep-2025 21:18:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[09-Sep-2025 04:08:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[14-Sep-2025 09:32:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[19-Sep-2025 10:57:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[20-Sep-2025 10:26:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[21-Sep-2025 08:52:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[21-Sep-2025 21:52:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[22-Sep-2025 04:40:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Warning:  Undefined array key "project_name" in /home/hamg9221/public_html/mail.php on line 25
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 25
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Warning:  Undefined array key "admin_email" in /home/hamg9221/public_html/mail.php on line 26
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 26
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Warning:  Undefined array key "form_subject" in /home/hamg9221/public_html/mail.php on line 27
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/hamg9221/public_html/mail.php on line 27
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Warning:  Undefined variable $message in /home/hamg9221/public_html/mail.php on line 41
+[22-Sep-2025 05:49:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/hamg9221/public_html/mail.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/hamg9221/public_html/mail.php on line 52

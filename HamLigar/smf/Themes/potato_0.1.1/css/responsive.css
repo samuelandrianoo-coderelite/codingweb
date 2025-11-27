@@ -1,0 +1,38 @@
+/* Some very big stuff? Dunno... */
+@media (min-width: 856px) and (max-width: 1024px) {
+
+}
+
+/* Still not enough data or people to test this... */
+/* This needs more data and this range is probably for iPad Air (alike) tablets... */
+@media (min-width: 721px) and (max-width: 855px) {
+
+}
+
+@media (min-width: 720px) and (max-width: 799px) {
+
+}
+
+/* We have shared things... */
+@media screen and (max-width: 720px) {
+
+}
+
+/* Tricky menu */
+@media (min-width: 481px) {
+
+}
+
+@media (min-width: 480px) and (max-width: 560px) {
+
+}
+
+/* Entry level phones */
+@media (max-width: 480px) {
+
+}
+
+/* iPhone Tests */
+@media (max-width: 320px) {
+
+}
