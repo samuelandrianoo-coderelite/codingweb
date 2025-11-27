@@ -1,0 +1,75 @@
+/**
+ *
+ * slippry v1.3 - Responsive content slider for jQuery
+ * http://slippry.com
+ *
+ * Authors: Lukas Jakob Hafner - @saftsaak
+ *          Thomas Hurd - @SeenNotHurd
+ *
+ * Copyright 2015, booncon oy - https://booncon.com
+ *
+ *
+ * Released under the MIT license - https://opensource.org/licenses/MIT
+ */
+/* kenBurns animations, very basic */
+
+@-webkit-keyframes left-right {
+    0%{-ms-transform:translateY(-20%) translateX(-10%);-webkit-transform:translateY(-20%) translateX(-10%);transform:translateY(-20%) translateX(-10%)}
+    100%{-ms-transform:translateY(0%) translateX(10%);-webkit-transform:translateY(0%) translateX(10%);transform:translateY(0%) translateX(10%)}
+    }
+    @keyframes left-right {
+    0%{-ms-transform:translateY(-20%) translateX(-10%);-webkit-transform:translateY(-20%) translateX(-10%);transform:translateY(-20%) translateX(-10%)}
+    100%{-ms-transform:translateY(0%) translateX(10%);-webkit-transform:translateY(0%) translateX(10%);transform:translateY(0%) translateX(10%)}
+    }
+    @-webkit-keyframes right-left {
+    0%{-ms-transform:translateY(0%) translateX(10%);-webkit-transform:translateY(0%) translateX(10%);transform:translateY(0%) translateX(10%)}
+    100%{-ms-transform:translateY(-20%) translateX(-10%);-webkit-transform:translateY(-20%) translateX(-10%);transform:translateY(-20%) translateX(-10%)}
+    }
+    @keyframes right-left {
+    0%{-ms-transform:translateY(0%) translateX(10%);-webkit-transform:translateY(0%) translateX(10%);transform:translateY(0%) translateX(10%)}
+    100%{-ms-transform:translateY(-20%) translateX(-10%);-webkit-transform:translateY(-20%) translateX(-10%);transform:translateY(-20%) translateX(-10%)}
+    }
+    .sy-box.sy-loading{background:url(../images/loading_sm.gif) 50% 50% no-repeat;background-size:32px;min-height:40px}
+    .sy-box.sy-loading .sy-slides-wrap,.sy-box.sy-loading .sy-pager{visibility:hidden}
+    .sy-slides-wrap:hover .sy-controls{display:block}
+    .sy-list.horizontal{-o-transition:left ease;-webkit-transition:left ease;transition:left ease}
+    .sy-list.vertical{-o-transition:top ease;-webkit-transition:top ease;transition:top ease}
+    .sy-slide.kenburns{width:140%;left:-20%}
+    .sy-slide.kenburns.useCSS{-o-transition-property:opacity;-webkit-transition-property:opacity;transition-property:opacity}
+    .sy-slide.kenburns.useCSS.sy-ken:nth-child(1n){-webkit-animation-name:left-right;-webkit-animation-fill-mode:forwards;-o-animation-name:left-right;-o-animation-fill-mode:forwards;animation-name:left-right;animation-fill-mode:forwards}
+    .sy-slide.kenburns.useCSS.sy-ken:nth-child(2n){-webkit-animation-name:right-left;-webkit-animation-fill-mode:forwards;-o-animation-name:right-left;-o-animation-fill-mode:forwards;animation-name:right-left;animation-fill-mode:forwards}
+    .sy-slide > img{margin:0;padding:0;display:block;max-width:100%;border:0}
+    .sy-slide > a > img{margin:0;padding:0;display:block;max-width:100%;border:0}
+    .sy-pager li{display:inline-block;width:1.2em;height:1.2em;margin:0 0.5em;border-radius:50%;}
+    .sy-pager li.sy-active a{background-color: #623dde;}
+    .sy-pager li a{width:100%;height:100%;display:block;background-color:#ccc;text-indent:-9999px;background-size:2em;border-radius:50%;}
+    .sy-pager li a:link,.sy-pager li a:visited{opacity:1}
+    .sy-pager li a:hover,.sy-pager li a:focus{opacity:.6}
+    .sy-filler{width:100%;padding-top: 2px !important;}
+    .sy-filler.ready{-o-transition:padding 600ms ease;-webkit-transition:padding 600ms ease;transition:padding 600ms ease;}
+    /* SMF extra */
+    .sy-slide > img.smiley {display: inline-block}
+    /*bildiri*/
+.databox--statistic{align-items:center;background:transparent;box-shadow:none}
+.databox--neutral{color: #fefefe;--tw-bg-opacity: 1;background-color: rgba(55,65,81,var(--tw-bg-opacity));}
+.databox{border-radius: 6px;display:flex;flex-wrap:wrap;padding: .5rem;}
+.databox-content{padding:11px;flex-grow:1;width:calc(100% - 3.5rem)}
+.databox--statistic .databox-icon{height: 2.5rem;border-radius:100%;}
+.databox-icon{display:flex;width: 2.5rem;font-size:18px;justify-content:center;border-radius:4px 0 0 4px;background:#623dde;}
+.databox-icon .icon{margin:0;display:inline-flex;justify-content:center;align-items:center}
+.news{position:relative;margin:10px 0}
+.news-fader-items{list-style:none;padding:0;margin:0;position:relative}
+.sy-slide{position:absolute;top:0}
+.sy-active{position:relative}
+.sy-filler{display:none}
+.sy-pager{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;align-items:center;padding:9px;position:absolute;top: 13px;right:0;}
+.sy-pager li{margin:0 2px;opacity:.4}
+.sy-pager li:first-child{margin-inline-start:0}
+.sy-pager li:last-child{margin-inline-end:0}
+.sy-pager li.sy-active{opacity:1}
+.main-content-section >{margin:6px 0}
+.sy-pager a:hover{background:var(--color-primary-dark)}
+.databox-icon i{color:#eee}
+.scroll-to-top{position:fixed;display:block;right:-100px;bottom:10px;width:45px;height:45px;line-height:45px;background-color:#623dde;color:#fff!important;text-align:center;z-index:10;border-radius:100%;-moz-border-radius:100%;-webkit-border-radius:100%;box-shadow:0 0 1px rgba(0,0,0,.05);-moz-box-shadow:0 0 1px rgba(0,0,0,.05);-webkit-box-shadow:0 0 1px rgba(0,0,0,.05);transition:all .5s ease;-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-ms-transition:all .5s ease;-o-transition:all .5s ease}
+.scroll-to-top.active{right:10px}
+/*bildiri-end*/

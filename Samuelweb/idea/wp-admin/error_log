@@ -1,0 +1,2 @@
+[30-Dec-2024 04:08:05 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /home/hamg9221/public_html/idea/wp-admin/includes/class-theme-upgrader.php on line 160
+[02-Jan-2025 02:26:41 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home/hamg9221/public_html/idea/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363

@@ -1,0 +1,302 @@
+:root {
+	/* Primary color */
+		/* Hue */
+		--primary-color-hue: 193;
+
+	/* Body */
+		/* Background */
+		--body-bg: hsl(var(--primary-color-hue), 40%, 85%); 
+		/* Color */
+		--body-txt-color: #262626;
+		/* Color Strong */
+		--body-txt-color-strong: #595959;
+		/* Font Family */
+		--body-font-family: 'Roboto', 'Segoe UI', 'Helvetica', 'Arial';
+
+	/* Links */
+		/* Color */
+		--body-link-color: hsl(var(--primary-color-hue), 75%, 35%);
+
+	/* Mode Toggle */
+		/* Icon */
+		--mode-icon-content: "\f185";
+		/* Color */
+		--mode-icon-color: hsl(40, 85%, 60%);
+
+	/* Inputs */
+		/* Background */
+		--input-bg: #ffffff;
+		--input-bg-disabled: #d9d9d9;
+		/* Border */
+		--input-border-color: #cccccc;
+		/* Shadow */
+		--input-shadow-color: rgba(180, 180, 180, 0.3);
+		/* Color */
+		--input-txt-color: #000000;
+		--input-accent-color: hsl(var(--primary-color-hue), 50%, 75%);
+
+	/* Button */
+		/* Background */
+		--button-bg: var(--buttonlist-bg-active);
+		--button-bg-hover: var(--buttonlist-bg-active);
+		/* Color */
+		--button-txt-color: var(--buttonlist-txt-color-active);
+		--button-txt-color-hover: #808080;
+		/* Border */
+		--button-border-color: var(--buttonlist-border-color-active);
+		--button-border-color-hover: var(--buttonlist-border-color-hover);
+
+	/* New Button */
+		/* Background */
+		--newbutton-bg: linear-gradient(var(--catbg-txt-color), hsl(var(--primary-color-hue), 35%, 60%));
+		/* Color */
+		--newbutton-txt-color: hsl(var(--primary-color-hue), 30%, 95%);
+
+	/* Catbg */
+		/* Background */
+		--catbg-bg: #f7f7f7;
+		/* Color */
+		--catbg-txt-color: hsl(var(--primary-color-hue), 80%, 25%);
+
+	/* Titlebg */
+		/* Background */
+		--titlebg-bg: var(--windowbg-bg);
+		--titlebg-bg-right: var(--windowbg-bg);
+		--titlebg-bg-left: var(--windowbg-bg);
+		/* Color */
+		--titlebg-txt-color: hsl(var(--primary-color-hue), 80%, 30%);
+
+	/* Windowbg */
+		/* Background */
+		--windowbg-bg: #f2f2f2;
+		--windowbg2-bg: #ebebeb;
+		--windowbg-bg-target: hsl(var(--primary-color-hue), 25%, 85%);
+		--windowbg-bg-hover: var(--header-bg);
+		/* Shadow */
+		--windowbg-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1) inset, 0px -1px 1px 0px rgba(0, 0, 0, 0.1) inset;
+		--windowbg-shadow-head: 0 3px 5px 0px hsla(var(--primary-color-hue), 100%, 20%, 50%) inset;
+
+	/* Roundframe */
+		/* Background */
+		--roundframe-bg: var(--windowbg-bg);
+		/* Shadow */
+		--roundframe-shadow: var(--windowbg-shadow);
+
+	/* Header */
+		/* Background */
+		--header-bg: #e6e6e6;
+		/* Border */
+		--header-border-color: hsl(var(--primary-color-hue), 25%, 15%);
+
+	/* Logo */
+		/* Background */
+		--logo-bg-hover: #4d4d4d;
+		/* Color */
+		--logo-txt-color: hsl(var(--primary-color-hue), 45%, 35%);
+
+	/* Footer */
+		/* Background */
+		--footer-bg: hsl(var(--primary-color-hue), 50%, 92%);
+
+	/* Top Bar */
+		/* Background */
+		--topbar-bg: hsl(var(--primary-color-hue), 100%, 20%);
+		--topbar-bg-hover: hsl(var(--primary-color-hue), 40%, 35%);
+		/* Border */
+		--topbar-border-color: #000000;
+		/* Color */
+		--topbar-txt-color: #ffffff;
+		--topbar-txt-color-hover: #000000;
+		/* Shadow */
+		--topbar-shadow-color: rgba(255, 255, 255, 0.15);
+
+	/* Nav */
+		/* Background */
+		--nav-bg: transparent;
+		/* Shadow */
+		--nav-shadow-color: rgba(0, 0, 0, 0.1);
+
+	/* Main Nav Items */
+		/* Background */
+		--nav-item-bg: #cccccc;
+		--nav-item-bg-hover: #e0e0e0;
+		--nav-item-bg-active: var(--header-bg);
+		/* Color */
+		--nav-item-txt-color: #4d4d4d;
+		--nav-item-txt-color-hover: #333333;
+		--nav-item-txt-color-active: hsl(var(--primary-color-hue), 75%, 30%);
+
+	/* Main Nav Drodown */
+		/* Background */
+		--nav-dropdown-bg: #ebebeb;
+		/* Border */
+		--nav-dropdown-border-color: #cccccc;
+
+	/* Main Nav Drodown Items */
+		/* Background */
+		--nav-dropdown-item-bg: transparent;
+		--nav-dropdown-item-bg-hover: var(--uppersection-bg);
+		/* Color */
+		--nav-dropdown-item-txt-color: #1f1f1f;
+		--nav-dropdown-item-txt-color-hover: #ffffff;
+
+	/* Button List */
+		/* Background */
+		--buttonlist-bg: #f2f2f2;
+		--buttonlist-bg-hover: hsl(var(--primary-color-hue), 15%, 85%);
+		--buttonlist-bg-active: hsl(var(--primary-color-hue), 32%, 85%);
+		/* Shadow */
+		--buttonlist-shadow: 1px -1px 0px 0px rgba(0, 0, 0, 0.1) inset, 0px 1px rgba(255,255,255,0.7) inset;
+		/* Border */
+		--buttonlist-border-color: hsl(var(--primary-color-hue), 15%, 85%);
+		--buttonlist-border-color-hover: hsl(var(--primary-color-hue), 15%, 80%);
+		--buttonlist-border-color-active: hsl(var(--primary-color-hue), 15%, 75%);
+		/* Color */
+		--buttonlist-txt-color: #1a1a1a;
+		--buttonlist-txt-color-hover: #262626;
+		--buttonlist-txt-color-active: #404040;
+		/* Text Shadow */
+		--buttonlist-txt-shadow: 0px 1px 0px rgba(255, 255, 255, 0.4);
+
+	/* Profile Cover */
+		/* Top Height */
+		--profile-cover-image-height: 150px;
+		/* Bottom Height */
+		--profile-cover-details-height: 75px;
+
+	/* Poster */
+		/* Background */
+		--poster-bg: hsl(var(--primary-color-hue), 12%, 90%);
+		/* Width */
+		--poster-width: 185px;
+
+	/* Status Colors */
+		/* Sticky */
+		--status-sticky-bg: hsl(var(--primary-color-hue), 30%, 90%);
+		/* Locked */
+		--status-locked-bg: hsl(var(--primary-color-hue), 15%, 75%);
+		/* Approve */
+		--status-approve-bg: #eacac8;
+		/* Approve Topic */
+		--status-approvet-bg: #f4d7d7;
+	
+	/* Tables and Lists */
+		/* Border */
+		--table-border-color: hsl(var(--primary-color-hue), 25%, 90%);
+
+	/* Content Section */
+		/* Background */
+		--content-section-bg: #fcfcfc;
+
+	/* Other Sections */
+		/* Background */
+		--uppersection-bg: var(--topbar-bg);
+		--forumsections-bg: linear-gradient(hsl(var(--primary-color-hue), 20%, 90%) 0,hsl(0, 0%, 99%) 70%);
+		/* Shadow */
+		--forumsections-shadow-color: rgba(255, 255, 255, 0.1);
+
+	/* Forum News */
+		/* Background */
+		--forumnews-bg: hsl(var(--primary-color-hue), 25%, 95%);
+		/* Inactive Background */
+		--forumnews-bg-inactive: hsl(var(--primary-color-hue), 20%, 65%);
+
+	/* Board Moderators */
+		/* Background */
+		--boardmoderators-bg: #e6e6e6;
+	
+	/* Board Description */
+		/* Background */
+		--boarddescription-bg: #ebebeb;
+
+	/* Sub Boards */
+		/* Background */
+		--subboards-bg: #ededed;
+
+	/* Tab Items */
+		/* Background */
+		--themetab-item-bg: var(--content-section-bg);
+		/* Color */
+		--themetab-item-txt-color: #595959;
+
+	/* Popup Container */
+		/* Background */
+		--popup-container-bg: rgba(0, 0, 0, 0.7);
+
+	/* Linktree */
+		/* Before */
+		--linktree-li-before-border-color: rgba(0, 0, 0, 0.1);
+
+	/* ScEditor Group */
+		/* Background */
+		--sceditor-group-bg: hsl(var(--primary-color-hue), 25%, 95%);
+		--sceditor-group-bg-active: hsl(var(--primary-color-hue), 25%, 98%);
+		/* Border */
+		--sceditor-group-border-color: hsl(var(--primary-color-hue), 25%, 67%);
+
+	/* NoticeBox */
+		/* Background */
+		--noticebox-bg: hsl(50, 100%, 90%);
+		/* Border */
+		--noticebox-border-color: hsl(48, 95%, 50%);
+		/* Color */
+		--noticebox-txt-color: #262626;
+
+	/* ErrorBox */
+		/* Background */
+		--errorbox-bg: hsl(0, 100%, 90%);
+		/* Border */
+		--errorbox-border-color: hsl(0, 95%, 50%);
+		/* Color */
+		--errorbox-txt-color: var(--noticebox-txt-color);
+
+	/* InfoBox */
+		/* Background */
+		--infobox-bg: hsl(120, 100%, 90%);
+		/* Border */
+		--infobox-border-color: hsl(120, 95%, 50%);
+		/* Color */
+		--infobox-txt-color: var(--noticebox-txt-color);
+
+	/* Amt */
+		/* Background */
+		--amt-bg: #ffffff;
+		--amt-bg-active: var(--catbg-txt-color);
+		/* Color */
+		--amt-txt-color: #000000;
+		--amt-txt-color-active: #fff;
+		/* Border */
+		--amt-shadow-color: rgba(0, 0, 0, 0.5);
+
+	/* Board Icons */
+		/* Color */
+		--boardicons-txt-color: hsl(var(--primary-color-hue), 75%, 25%);
+
+	/* Avatar */
+		/* Border */
+		--avatar-border-radius: 50%;
+
+	/* Quote */
+		/* Border */
+		--quote-border-color: hsl(var(--primary-color-hue), 35%, 65%);
+		/* Background */
+		--quote-bg: hsl(var(--primary-color-hue), 5%, 90%);
+		--qutoe-alternate-bg: hsl(var(--primary-color-hue), 10%, 85%);
+
+	/* Code */
+		/* Border */
+		--code-border-color: hsl(var(--primary-color-hue), 40%, 50%);
+		/* Background */
+		--code-bg: hsl(var(--primary-color-hue), 25%, 95%);
+
+	/* Alerts */
+		/* Background */
+		--alert-bg: hsl(var(--primary-color-hue), 12%, 98%);
+		--alert-bg-hover: hsl(var(--primary-color-hue), 15%, 95%);
+		/* Border */
+		--alert-border-color: hsl(var(--primary-color-hue), 50%, 85%);
+
+	/* Stats Pie **/
+		/* Hue */
+		--stats-pie-hue: 335deg;
+}
